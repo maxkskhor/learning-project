@@ -1,2 +1,3 @@
 # learning-project
-self-learning projects
+- self-learning projects
+- include notes
