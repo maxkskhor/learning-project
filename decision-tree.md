@@ -90,3 +90,10 @@
 - Not recommended for unstructured data (images, audio, text)
 - Fast
 - Small decision trees may be human interpretable
+
+## When to use Neural Network
+
+- Works well on all types of data, including tabular (structured) and unstructured data
+- May be slower than a decision tree
+- Works with transfer learning (pre-training)
+- When building a system of multiple models working together, it might be easier to string together multiple neural networks
