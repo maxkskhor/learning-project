@@ -1,4 +1,4 @@
-# Decision Tree
+# Decision Trees
 
 ## Measuring Purity
 
