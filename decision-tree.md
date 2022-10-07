@@ -78,5 +78,15 @@
 > for $b$ = 1 to $B$:
 >>
 >> - Use sampling with replacement to create a new training set of size $m$.
->> - *But instead of picking from all examples with equal (1/m) probability, make it more likely to pick misclassified examples from previously trained trees*. 
+>> - *But instead of picking from all examples with equal (1/m) probability, make it more likely to pick misclassified examples from previously trained trees*.
 >> - Train a decision tree on the new dataset
+
+- Good choice of default splitting criteria and criteria for when to stop splitting
+- Built in regularisation to prevent overfitting
+
+## When to use decision tree
+
+- Works well on tabular (structured) data
+- Not recommended for unstructured data (images, audio, text)
+- Fast
+- Small decision trees may be human interpretable
