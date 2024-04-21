@@ -59,7 +59,7 @@
 
 - Generating a tree sample
 
-> for $b$ = 1 to $B$:
+> for b = 1 to B:
 >>
 >> - Use sampling with replacement to create a new training set of size $m$
 >> - Train a decision tree on the new dataset
