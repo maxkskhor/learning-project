@@ -1,4 +1,4 @@
-# learning-project
-
-- self-learning projects
-- include notes
+# Learn exciting concepts everyday!
+- Python concepts
+- LLM
+- Leetcode
