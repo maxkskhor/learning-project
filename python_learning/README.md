@@ -1,3 +1,4 @@
 - To provide quick examples on important Python concepts
 - Many examples are based on W3schools or Real Python
 - logging is based on mCoding
+- fluent python is based on Fluent Python by Luciaono Ramalho
